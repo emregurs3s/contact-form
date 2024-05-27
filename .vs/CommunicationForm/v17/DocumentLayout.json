@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\migrations\\20240527123534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:migrations\\20240527123534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\communicationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:communicationform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|c:\\users\\emreg\\source\\repos\\communicationform\\views\\contact\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4703E840-702A-4E87-B0FE-ECBD5AA280C9}|CommunicationForm.csproj|solutionrelative:views\\contact\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240527123534_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Migrations\\20240527123534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527123534_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Migrations\\20240527123534_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240527123534_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:36:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommunicationForm",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\CommunicationForm.csproj",
+              "RelativeDocumentMoniker": "CommunicationForm.csproj",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\CommunicationForm.csproj",
+              "RelativeToolTip": "CommunicationForm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T12:10:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:32:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Controllers\\Controllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controllers.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Controllers\\Controllers.cs",
+              "RelativeToolTip": "Controllers\\Controllers.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:03:06.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:57:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:55:26.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:16:17.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T00:54:03.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:16:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:16:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:16:10.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T12:13:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:03:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:03:45.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Contact\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\emreg\\source\\repos\\CommunicationForm\\Views\\Contact\\Index.cshtml.cs",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T01:03:41.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

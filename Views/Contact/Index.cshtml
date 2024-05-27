@@ -1,0 +1,32 @@
+﻿@model CommunicationForm.Models.Contact
+
+<h2>İletişim Formu</h2>
+
+<form asp-controller="Contact" asp-action="Submit" method="post">
+    <div class="form-group">
+        <label for="FullName">Adı Soyadı</label>
+        <input type="text" class="form-control" id="FullName" name="FullName" placeholder="Adınız Soyadınız" required />
+    </div>
+    <div class="form-group">
+        <label for="Phone">Telefon</label>
+        <input type="tel" class="form-control" id="Phone" name="Phone" placeholder="Telefon Numaranız" required />
+    </div>
+    <div class="form-group">
+        <label for="Email">E-Posta</label>
+        <input type="email" class="form-control" id="Email" name="Email" placeholder="E-Posta Adresiniz" required />
+    </div>
+    <div class="form-group">
+        <label for="Department">Departman</label>
+        <select class="form-control" id="Department" name="Department" required>
+            <option value="">Departman Seçiniz</option>
+            <option value="Muhasebe">Muhasebe</option>
+            <option value="Teknik Destek">Teknik Destek</option>
+            <option value="İnsan Kaynakları">İnsan Kaynakları</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Message">Mesaj</label>
+        <textarea class="form-control" id="Message" name="Message" rows="4" placeholder="Mesajınızı Yazınız" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>
